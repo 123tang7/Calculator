@@ -485,4 +485,4 @@ void Widget::on_btnPercent_clicked()
     ui->display->setText(currentInput);
 }
 //完成数字输入
-
+//完成加减乘除运算
