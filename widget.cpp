@@ -486,3 +486,4 @@ void Widget::on_btnPercent_clicked()
 }
 //完成数字输入
 //完成加减乘除运算
+//修复问题
