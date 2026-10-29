@@ -484,4 +484,5 @@ void Widget::on_btnPercent_clicked()
     // 把结果显示在屏幕上
     ui->display->setText(currentInput);
 }
+//完成数字输入
 
